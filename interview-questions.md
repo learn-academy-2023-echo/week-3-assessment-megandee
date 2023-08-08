@@ -8,48 +8,48 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is JSX? What is one syntax difference between HTML and JSX?
 
-Your answer: JSX is a markdown language that helps us create user interfaces in React.
+Your answer:
 
-Researched answer: JSX markdown syntax extension to JavaScript. It is an important part of React components that aloows React to create user interfaces. The main syntax differnece between HTML and JSX is HTML uses 'class' while JSX uses 'className' that is because 'class is already a protected JavaScript word.
+Researched answer:
 
 2. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
 
-Your answer: Yarn is a JavaScript package manager.
+Your answer:
 
-<!-- Researched answer: Yarn is a JavaScript package manager. It manages and structures all of the node modules. App.js -->
+Researched answer:
 
 3. What is a React component?
 
-Your answer: Everything in React. 
+Your answer:
 
-Researched answer: Everything in React. They are a type of function that contains logic and returns markup for the browser.
+Researched answer:
 
 4. What is the difference between state values and props in React?
 
-Your answer: State values hold logic and props are objects.
+Your answer:
 
-Researched answer: State values are constantly changing and updated through different user interactions while props can not be changed. 
+Researched answer:
 
 5. What is the DOM?
 
-Your answer: The DOM stands for Document Object Model and is the visual representation of the code.
+Your answer:
 
-Researched answer: The DOM stands for Document Object Model and is the visual representation of the code. It helps create effecient user interactions by finding the specific element change and only updating the specific element.
+Researched answer:
 
 6. STRETCH: Which is the difference between a div tag and a span tag?
 
-Your answer: Div tags are for organizing.
+Your answer:
 
-Researched answer: Div tags are more for code block organizing whereas span tags are more for inline organizing.
+Researched answer:
 
 ## Looking Ahead: Terms for Next Week
 
-1. Object-oriented programming: Is a programming model that manages the complexity of large software systems.
+1. Object-oriented programming:
 
-2. Ruby: Ruby is an object oriented programming language that has the beautiful reputation for its simplicity and style that is easy to comprehend. 
+2. Ruby:
 
-3. Implicit return: The return of the last line of a method is there is no other return specified.
+3. Implicit return:
 
-4. Ruby blocks: Typically defined with the key words 'do' and 'end' Ruby block is a function that that's passed to a method to determine the outcome.
+4. Ruby blocks:
 
-5. Ruby hashes: A collection of specific keys and their values.
+5. Ruby hashes:
